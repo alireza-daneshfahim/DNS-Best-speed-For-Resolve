@@ -25,7 +25,7 @@ Open dns_servers.txt and add or update the list of DNS servers you want to test 
 
 3. Run the script and view results:
    ```bash
-   ./dns_best_speed_set_reslove.sh
+   sudo bash ./dns_best_speed_set_reslove.sh
    ```
 
 The script will output the DNS response times, sorted from fastest to
